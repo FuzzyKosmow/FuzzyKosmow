@@ -2,7 +2,7 @@
 ### Hi there! 👋 I'm FuzzyKosmow
 
 Just an undergrad exploring the realms of web and game development.
-
+ 
 
 <br/>
 
