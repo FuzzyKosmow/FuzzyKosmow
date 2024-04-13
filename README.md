@@ -3,7 +3,7 @@
 
 Just an undergrad exploring the realms of web and game development.
  
-
+ 
 <br/>
 
 ![FuzzyKosmow's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FuzzyKosmow&theme=vue-dark&hide_border=true)
